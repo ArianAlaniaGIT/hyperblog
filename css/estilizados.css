@@ -2,7 +2,7 @@ body
 {
     color: #333;
     text-align: left;
-    font-family: "Arial";
+    font-family: "Berlin Sans FB";
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -10,7 +10,7 @@ body
 #container
 {
     width: 70%;
-    padding: lem;
+    padding: 1em;
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
