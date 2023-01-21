@@ -6,7 +6,6 @@ No importa si es poco lo que ofreces ya que, cada cosa por mas minimo que sea qu
 
 Si hay algo que se te presenta dificultades, no dudes en consultar ayuda tanto aexpertos como en linea.
 
-<<<<<<< HEAD
 Experimento 1
 
 Experimento 2
@@ -15,6 +14,4 @@ Master 1
 
 Master 2
 
-=======
->>>>>>> 731475dabc83623c40477a7abd49d8c98b97c96c
 - Arian Alania en 2023
